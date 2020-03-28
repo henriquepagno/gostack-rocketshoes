@@ -1,5 +1,5 @@
 <h2 align="center">
-  Online shoes store developed in Rocketseat GoStack Bootcamp
+  Shoes store developed in Rocketseat GoStack Bootcamp
 </h3>
 
 <p align="center">
