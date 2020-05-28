@@ -20,6 +20,11 @@
   Developed using Redux and Redux Saga.
 </p>
 
+<p align="center">
+  <img src="/screenshots/store.png" alt="Store Screenshot"/>
+  <img src="/screenshots/cart.png" alt="Cart Screenshot"/>
+</p>
+
 <h4 align="center">
   How to run
 </h4>
